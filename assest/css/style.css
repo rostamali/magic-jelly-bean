@@ -97,6 +97,11 @@ a .navbar-logo{
     text-decoration: none;
     margin-left: 30px;
     color: #FFF;
+    transition: all 0.3s;
+}
+.c-nav-link:active,
+.c-nav-link:hover{
+    color: #8CC640;
 }
 .hero-box{
     padding: 30px 0 50px 0;
