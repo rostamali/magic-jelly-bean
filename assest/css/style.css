@@ -111,6 +111,11 @@ a .navbar-logo{
     color: #fff;
     padding-top: 20px;
 }
+@media only screen and (max-width:768px){
+    .mt-md-sm{
+        margin-bottom: 10px;
+    }
+}
 @media only screen and (max-width:425px){
     .hero-desc{
         font-size: 15px;
