@@ -200,7 +200,7 @@ a .navbar-logo{
     height: 500px;
     display: inline-block;
 }
-@media only screen and (max-width:425px){
+@media only screen and (max-width:768px){
     .hardware-thumbnail img{
         height: 300px;
     }
